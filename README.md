@@ -20,11 +20,19 @@ Objective: Leveraging applied data science to optimize enterprise talent strateg
 
 Impact: Mathematically proved that providing AI coding assistants directly caused a statistically significant 15.5% increase in developer commit volume (P-value < 0.05).
 
-⚖️ [Algorithmic Fairness Audit: Resume AI Screener] (In Progress...)
+⚖️ 
+
+$$Algorithmic Fairness Audit: Resume AI Screener$$
+
+ (In Progress...)
 
 Methodology: Classification Modeling, Disparate Impact Analysis.
 
-🔮 [Predictive Retention: 6-Month Flight Risk ML Model] (In Progress...)
+🔮 
+
+$$Predictive Retention: 6-Month Flight Risk ML Model$$
+
+ (In Progress...)
 
 Methodology: Random Forest Classifier, Feature Importance Extraction.
 
