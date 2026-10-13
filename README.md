@@ -1,45 +1,109 @@
-Hi, I'm Adinuansah! 👋
+# Hi, I'm Adinuansah 👋
 
-I am an NYU STEM Master's Candidate and People Data Scientist specializing in bridging the gap between human behavior and artificial intelligence.
+### People Analytics & Data Science | AI & Future of Work
 
-Drawing from my previous experience engineering global tech talent pipelines at Grab (NASDAQ: GRAB), I now use rigorous quantitative research and machine learning to evaluate employee experience, audit HR algorithms for bias, and build scalable, privacy-preserving data products.
+I'm a **People Analytics & Data Science professional and NYU STEM Master's candidate** with 7+ years of experience across global technology organizations, including Grab (NASDAQ: GRAB) and Axiata.
 
-🚀 My Current Focus:
+My background combines workforce analytics, organizational strategy, quantitative research, and applied AI. I use **Python, SQL, statistical modeling, and data visualization** to translate complex workforce and business data into actionable insights.
 
-Advanced Analytics: Causal Inference, A/B Testing (Randomized Controlled Trials), and Predictive Modeling.
+Currently pursuing my Master's in Management of Technology at **NYU Tandon School of Engineering & Stern School of Business** (expected May 2027), while working on People Analytics and Data Science consulting projects.
 
-AI & Ethical Governance: Algorithmic fairness audits and measuring human-AI collaboration ROI.
+---
 
-Objective: Leveraging applied data science to optimize enterprise talent strategy, retention, and developer productivity at scale.
+## 🔍 Areas of Focus
 
-🛠️ Tech Stack & Tools
+- **People Analytics & Workforce Strategy:** Employee attrition, retention, workforce planning, headcount forecasting, engagement, and organizational effectiveness.
+- **Data Science & Statistical Modeling:** Predictive modeling, regression, classification, time-series forecasting, hypothesis testing, and experimental design.
+- **Data Analytics & Business Intelligence:** SQL data transformation, exploratory data analysis, KPI development, data validation, and executive dashboards.
+- **Applied AI & Future of Work:** LLM applications, text analytics, workflow automation, AI output evaluation, and responsible human-AI collaboration.
 
-📈 Featured Portfolio Projects
+---
 
-🔬 Causal Inference & A/B Testing: Measuring the ROI of GitHub Copilot: * Methodology: Independent T-Test, scipy.stats, seaborn.
+## 🛠️ Technical Skills
 
-Impact: Mathematically proved that providing AI coding assistants directly caused a statistically significant 15.5% increase in developer commit volume (P-value < 0.05).
+| Category | Tools & Methods |
+|---|---|
+| Programming & Data | Python, SQL, R, pandas, NumPy |
+| Machine Learning | scikit-learn, Regression, Random Forest, Classification, Forecasting |
+| Statistics & Experimentation | Hypothesis Testing, A/B Testing, Experimental Design, Quantitative Research |
+| Business Intelligence | Tableau, Power BI, Excel |
+| People Data & Systems | Workday HRIS, ATS Data, Workforce Analytics |
+| AI & Automation | LLMs, NLP/Text Analytics, Prompt Engineering, Workflow Automation |
 
-⚖️ 
+---
 
-$$Algorithmic Fairness Audit: Resume AI Screener$$
+## 📊 Featured Portfolio Projects
 
- (In Progress...)
+I'm developing reproducible, business-oriented analytics projects that demonstrate how data science can solve real-world workforce challenges.
 
-Methodology: Classification Modeling, Disparate Impact Analysis.
+### 1. Employee Attrition Prediction & Explainable Machine Learning
+**Status:** Planned
 
-🔮 
+Developing a predictive analytics workflow to analyze employee attrition patterns, evaluate classification models, and identify potential workforce risk factors.
 
-$$Predictive Retention: 6-Month Flight Risk ML Model$$
+**Methods:** Python, SQL, scikit-learn, Logistic Regression, Random Forest, Model Evaluation, Explainability.
 
- (In Progress...)
+### 2. Workforce Planning & Headcount Forecasting
+**Status:** Planned
 
-Methodology: Random Forest Classifier, Feature Importance Extraction.
+Building forecasting models and scenario-based workforce planning analyses to estimate future talent demand, hiring requirements, and organizational capacity.
 
-📬 Let's Connect
+**Methods:** Python, SQL, Time-Series Forecasting, Statistical Modeling, Scenario Analysis.
 
-LinkedIn: linkedin.com/in/adinuansah
+### 3. Employee Experience & Experimental Analysis
+**Status:** Planned
 
-Email: adinuansah@nyu.edu
+Applying statistical testing and experimental design to evaluate employee experience initiatives and examine the relationship between people programs and organizational outcomes.
 
-Always open to discussing causal inference, data-driven HR strategy, or new project collaborations!
+**Methods:** Python, SciPy, A/B Testing, Hypothesis Testing, Statistical Inference.
+
+### 4. People Analytics Data Product
+**Status:** Planned
+
+Developing an end-to-end analytics workflow that integrates workforce data, standardizes HR metrics, implements data-quality checks, and produces decision-ready dashboards.
+
+**Methods:** SQL, Python, Data Transformation, Tableau/Power BI, Data Validation.
+
+### 5. AI & Future of Work Analytics
+**Status:** Planned
+
+Exploring applications of NLP and large language models to workplace analytics, including AI output evaluation, human-in-the-loop processes, and algorithmic fairness.
+
+**Methods:** Python, NLP, LLMs, Prompt Engineering, AI Evaluation.
+
+*Portfolio projects will use public or synthetic datasets. Projects and results will be documented transparently and kept separate from confidential employer data.*
+
+---
+
+## 💼 Professional Background
+
+I bring 7+ years of experience across **People Analytics, talent strategy, workforce planning, and organizational transformation**, including work at **Grab (NASDAQ: GRAB)** and **Axiata**, alongside my current People Analytics and Data Science consulting experience.
+
+My professional background connects real-world workforce challenges with quantitative analysis, business intelligence, predictive modeling, and AI-enabled solutions.
+
+📌 **For my complete professional experience, career history, and achievements, visit my [LinkedIn profile](https://www.linkedin.com/in/adinuansah/).**
+
+---
+
+## 🎓 Education & Research
+
+**New York University — Master's in Management of Technology**
+
+NYU Tandon School of Engineering & Stern School of Business
+
+Expected Graduation: May 2027
+
+**State University of Makassar — Bachelor's in English Education**
+
+Conducted quantitative research using SPSS, R, and Excel, with research published in a Scopus-indexed journal.
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in applying data science, statistics, and AI to complex challenges involving people, organizations, and the future of work.
+
+- **LinkedIn:** [linkedin.com/in/adinuansah](https://www.linkedin.com/in/adinuansah/)
+- **Email:** adinuansah@nyu.edu
+
+*Turning workforce data into actionable insights through analytics, experimentation, and responsible AI.*
