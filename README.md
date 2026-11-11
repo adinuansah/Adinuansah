@@ -32,8 +32,6 @@ Each project starts from a business question, uses public or simulated data (nev
 | 7 | Bias audit of a hiring model | Adverse impact ratios, subgroup calibration | Planned |
 | 8 | Did the AI tool improve productivity? | Staggered-rollout causal design | Planned |
 
-Earlier work: [AI-Productivity-ROI-Analysis](https://github.com/adinuansah/AI-Productivity-ROI-Analysis), a first A/B test exercise on simulated data that project 8 will replace.
-
 ## Tools
 
 Python (pandas, statsmodels, scikit-learn, lifelines) · SQL · R · Tableau · Power BI · Workday and ATS data · Google Colab
