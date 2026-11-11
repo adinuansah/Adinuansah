@@ -1,109 +1,45 @@
-# Hi, I'm Adinuansah 👋
+# Adinuansah
 
-### People Analytics & Data Science | AI & Future of Work
+**People data scientist.** I measure what works in organizations with causal methods, and I evaluate how AI changes work.
 
-I'm a **People Analytics & Data Science professional and NYU STEM Master's candidate** with 7+ years of experience across global technology organizations, including Grab (NASDAQ: GRAB) and Axiata.
+NYU Master's candidate in Management of Technology (Tandon and Stern, expected May 2027). Before NYU I spent eight years as a people partner to Product, Engineering, and Design teams at Grab and Axiata
 
-My background combines workforce analytics, organizational strategy, quantitative research, and applied AI. I use **Python, SQL, statistical modeling, and data visualization** to translate complex workforce and business data into actionable insights.
-
-Currently pursuing my Master's in Management of Technology at **NYU Tandon School of Engineering & Stern School of Business** (expected May 2027), while working on People Analytics and Data Science consulting projects.
+New York City · [LinkedIn](https://www.linkedin.com/in/adinuansah) · adinuansah@nyu.edu
 
 ---
 
-## 🔍 Areas of Focus
+## What I work on
 
-- **People Analytics & Workforce Strategy:** Employee attrition, retention, workforce planning, headcount forecasting, engagement, and organizational effectiveness.
-- **Data Science & Statistical Modeling:** Predictive modeling, regression, classification, time-series forecasting, hypothesis testing, and experimental design.
-- **Data Analytics & Business Intelligence:** SQL data transformation, exploratory data analysis, KPI development, data validation, and executive dashboards.
-- **Applied AI & Future of Work:** LLM applications, text analytics, workflow automation, AI output evaluation, and responsible human-AI collaboration.
-
----
-
-## 🛠️ Technical Skills
-
-| Category | Tools & Methods |
+| Area | Questions I answer |
 |---|---|
-| Programming & Data | Python, SQL, R, pandas, NumPy |
-| Machine Learning | scikit-learn, Regression, Random Forest, Classification, Forecasting |
-| Statistics & Experimentation | Hypothesis Testing, A/B Testing, Experimental Design, Quantitative Research |
-| Business Intelligence | Tableau, Power BI, Excel |
-| People Data & Systems | Workday HRIS, ATS Data, Workforce Analytics |
-| AI & Automation | LLMs, NLP/Text Analytics, Prompt Engineering, Workflow Automation |
+| Causal inference | Did the program, policy, or manager change actually move retention or performance? |
+| Measurement | Is this survey or metric reliable enough to make decisions on? |
+| AI in the workforce | Is an AI tool improving outcomes, and is an AI-assisted people process fair? |
+| Analytics engineering | Can leaders trust the people data and metric definitions behind the dashboard? |
 
----
+## Portfolio
 
-## 📊 Featured Portfolio Projects
+Each project starts from a business question, uses public or simulated data (never employer data), and ends with a one-page summary for a non-technical leader.
 
-I'm developing reproducible, business-oriented analytics projects that demonstrate how data science can solve real-world workforce challenges.
+| # | Project | Methods | Status |
+|---|---|---|---|
+| 1 | Time-to-attrition study: who leaves, and when? | Kaplan-Meier, Cox proportional hazards | In progress |
+| 2 | People data warehouse with tested metrics | SQL, dbt, DuckDB, data quality tests | Next |
+| 3 | Did manager training reduce attrition? | Difference-in-differences | Planned |
+| 4 | Promotion and retention | Propensity score matching, power analysis | Planned |
+| 5 | Engagement survey validation and team-level drivers | Reliability, factor analysis, multilevel models | Planned |
+| 6 | What employees say: review text analysis | LLM tagging with a human-labeled accuracy check | Planned |
+| 7 | Bias audit of a hiring model | Adverse impact ratios, subgroup calibration | Planned |
+| 8 | Did the AI tool improve productivity? | Staggered-rollout causal design | Planned |
 
-### 1. Employee Attrition Prediction & Explainable Machine Learning
-**Status:** Planned
+Earlier work: [AI-Productivity-ROI-Analysis](https://github.com/adinuansah/AI-Productivity-ROI-Analysis), a first A/B test exercise on simulated data that project 8 will replace.
 
-Developing a predictive analytics workflow to analyze employee attrition patterns, evaluate classification models, and identify potential workforce risk factors.
+## Tools
 
-**Methods:** Python, SQL, scikit-learn, Logistic Regression, Random Forest, Model Evaluation, Explainability.
+Python (pandas, statsmodels, scikit-learn, lifelines) · SQL · R · Tableau · Power BI · Workday and ATS data · Google Colab
 
-### 2. Workforce Planning & Headcount Forecasting
-**Status:** Planned
+## Background
 
-Building forecasting models and scenario-based workforce planning analyses to estimate future talent demand, hiring requirements, and organizational capacity.
-
-**Methods:** Python, SQL, Time-Series Forecasting, Statistical Modeling, Scenario Analysis.
-
-### 3. Employee Experience & Experimental Analysis
-**Status:** Planned
-
-Applying statistical testing and experimental design to evaluate employee experience initiatives and examine the relationship between people programs and organizational outcomes.
-
-**Methods:** Python, SciPy, A/B Testing, Hypothesis Testing, Statistical Inference.
-
-### 4. People Analytics Data Product
-**Status:** Planned
-
-Developing an end-to-end analytics workflow that integrates workforce data, standardizes HR metrics, implements data-quality checks, and produces decision-ready dashboards.
-
-**Methods:** SQL, Python, Data Transformation, Tableau/Power BI, Data Validation.
-
-### 5. AI & Future of Work Analytics
-**Status:** Planned
-
-Exploring applications of NLP and large language models to workplace analytics, including AI output evaluation, human-in-the-loop processes, and algorithmic fairness.
-
-**Methods:** Python, NLP, LLMs, Prompt Engineering, AI Evaluation.
-
-*Portfolio projects will use public or synthetic datasets. Projects and results will be documented transparently and kept separate from confidential employer data.*
-
----
-
-## 💼 Professional Background
-
-I bring 7+ years of experience across **People Analytics, talent strategy, workforce planning, and organizational transformation**, including work at **Grab (NASDAQ: GRAB)** and **Axiata**, alongside my current People Analytics and Data Science consulting experience.
-
-My professional background connects real-world workforce challenges with quantitative analysis, business intelligence, predictive modeling, and AI-enabled solutions.
-
-📌 **For my complete professional experience, career history, and achievements, visit my [LinkedIn profile](https://www.linkedin.com/in/adinuansah/).**
-
----
-
-## 🎓 Education & Research
-
-**New York University — Master's in Management of Technology**
-
-NYU Tandon School of Engineering & Stern School of Business
-
-Expected Graduation: May 2027
-
-**State University of Makassar — Bachelor's in English Education**
-
-Conducted quantitative research using SPSS, R, and Excel, with research published in a Scopus-indexed journal.
-
----
-
-## 📫 Let's Connect
-
-I'm interested in applying data science, statistics, and AI to complex challenges involving people, organizations, and the future of work.
-
-- **LinkedIn:** [linkedin.com/in/adinuansah](https://www.linkedin.com/in/adinuansah/)
-- **Email:** adinuansah@nyu.edu
-
-*Turning workforce data into actionable insights through analytics, experimentation, and responsible AI.*
+- **Grab** (2021–2025): people partner for Product, Engineering, and Design. 
+- **Axiata** (2018–2021): workforce analytics and forecasting for the company's first in-house digital organization of 50+ product and engineering roles.
+- **Education:** NYU, Master's in Management of Technology (in progress).
